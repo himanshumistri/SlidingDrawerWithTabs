@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <dimen name="actionbar_dimen">56dp</dimen>
+
+    <dimen name="img_padding">7dp</dimen>
+</resources>

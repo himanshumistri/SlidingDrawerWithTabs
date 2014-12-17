@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_gray">#c2c7cc</color>
+    <color name="dark_gray">#3d454c</color>
+    <color name="dark_gray_pressed">#373e44</color>
+    <color name="darker_gray">#1f2226</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="red_main">#e53935</color>
+    <color name="red_light_main">#ff8a80</color>
+
+    <color name="red_dark_pressed">#d32f2f</color>
+
+    <color name="red_status_bar">#d50000</color>
+
+    <color name="accent">#b71c1c</color>
+
+    <color name="tab_color">#b71c1c</color>
+
+
+
+    <color name="tab_red_list">#f44336</color>
+</resources>
